@@ -29,8 +29,8 @@ This training is for high council awareness of the welfare principles taught to 
 
 - [Part 1: Welfare and Self-reliance training](https://drive.google.com/file/d/14uzSX4vREBeK0jQtfk7Z20-X-qg1NIpm/view?usp=drive_link)
 - [Part 2: Welfare and Self-reliance training](https://drive.google.com/file/d/1gLBaBQumf0gl764g5uRHT6bNR91FlA9_/view?usp=drive_link)
-Part 3: Monthly training with President Seegmiller
-Part 4: High Councilor continues to provide training to EQ
+- Part 3: Monthly training with President Seegmiller
+- Part 4: High Councilor continues to provide training to EQ
 
 ## Welcome Email
 Below is a welcome email the executive secretary sends to a newly called High Councilor. 
