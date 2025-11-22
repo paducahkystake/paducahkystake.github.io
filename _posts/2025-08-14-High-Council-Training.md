@@ -3,7 +3,9 @@ title: High Council Training
 date: 2025-08-14
 author: Executive Secretary
 permalink: high-council-training
-tags: training
+tags: 
+    - training
+    - high-council
 ---
 The following are training resources for High Councilors in the Paducah Kentucky Stake: 
 
