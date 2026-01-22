@@ -28,17 +28,17 @@ Below are some training topics for executive secretaries.
 ### How To Stay Organized
 - Write things down, whether by pencil or digitally. 
     > "The dullest pencil is better than the sharpest memory."
-- Use a shared calendar (digital if you can). Put the appointments on a calendar and set notifications so 
+- Use a shared calendar (digital if you can). Put the appointments on a calendar and set notifications. 
     - Digital (online) calendars are free ([Google Calendar](https://calendar.google.com), [Outlook Calendar](https://outlook.live.com/calendar), etc)
 - If you have a lot of projects, initiatives, appointments, etc, use an organizational tool like [Trello](https://trello.com) or [Microsoft Planner](https://planner.cloud.microsoft.com).
 
 ### How To Initiate Contact
 - Try to say hello in person before going to digital text messages, or email. This may not always be possible. 
 - If you don't know the person and your text/email is the first communication, introduce yourself. Example: `"Hi, Sister X, I'm ___, the ward executive secretary. Bishop asked ..."`
-- Start with `Hi` or `Hello`; don't just straight into the ask. 
+- Start with a greeting, `Hi`, `Hello`, `Good morning/evening`; don't just straight into the ask. 
 - When speaking in person, say something genuine to break the ice. Don't go right into asking for something. 
     - `"How is your family?"`
-    - `"I saw your son, Z, hit a good basket at the bastketball game on Saturday..."` 
+    - `"I saw your Jake (their son) hit a good basket at the bastketball game on Saturday..."` 
 
 ### What To Say To Be Welcoming
 - Say hello at church (without asking for anything)
