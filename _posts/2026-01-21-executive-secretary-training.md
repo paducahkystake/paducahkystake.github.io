@@ -23,6 +23,7 @@ Below are some training topics for executive secretaries.
 ### General Tips
 - Be considerate of the person you're engaging with. Try to put yourself in their shoes with each message or response you send. What would make them say the things they say? What might have happened during their day?
 - Proofread. If you received the message you're about to send, how would you feel and would the ask be clear? 
+- Always say thank you. 
 
 ### How To Stay Organized
 - Write things down, whether by pencil or digitally. 
@@ -38,20 +39,25 @@ Below are some training topics for executive secretaries.
 - When speaking in person, say something genuine to break the ice. Don't go right into asking for something. 
     - `"How is your family?"`
     - `"I saw your son, Z, hit a good basket at the bastketball game on Saturday..."` 
-- A few examples of messages: 
-    - `"Hi, Sister X, hope you're well. Bishop is asking to meet with you. Can you meet at 12p today?"`
-    - `"Hi, Brother Y, it was good to see you at church. Bishop asked me to check in with you (and all the members of our ward). Our records show your recommend may be expiring soon? Can I help you schedule a renewal?"` 
-    - (with introduction) `"Hi Sister Z, I'm ___, the ward executive secretary. I really enjoyed your talk on Sunday. Bishop is trying to meet with members for tithing declaration meetings and he asked me to reach out. Are you available on ___?"`
 
 ### What To Say To Be Welcoming
 - Say hello at church (without asking for anything)
 - Give before you ask. Ex: `"I remember your coconut pie at the pot lock was sooo good!"`
-- Always say thank you
 
 ### What To Do (and not do) When a Member Stops Responding To Your Messages
 - Don't keep trying the same way. Ex repeated text or repeated calls. This might be seen as badgering or annoying and could push people away. 
 - Try a different way of contacting the person. Go from text to email, or phone call to in-person. 
 
+### Examples 
+A few examples of invitation messages:  
+
+> "Hi, Sister X, hope you're well. Bishop is asking to meet with you. Can you meet at 12p today?"
+
+
+> "Hi, Brother Y, it was good to see you at church. Bishop asked me to check in with you (and all the members of our ward). Our records show your recommend may be expiring soon? Can I help you schedule a renewal?"
+
+(with introduction:) 
+> "Hi Sister Z, I'm ___, the ward executive secretary. I really enjoyed your talk on Sunday. Bishop is trying to meet with members for tithing declaration meetings and he asked me to reach out. Are you available on ___?"
 
 ## Conclusion
 By following these tips, you will be a more effective executive secretary to reach people and help them progress toward their next ordinance. 
