@@ -40,7 +40,7 @@ Below are some training topics for executive secretaries.
 - Say hello at church (without asking for anything)
 - Give before you ask. Ex: `"I remember your coconut pie at the pot lock was sooo good!"`
 
-### What ToDdo (and not do) When a Member Stops Responding
+### What To Do (and not do) When a Member Stops Responding
 - Don't keep trying the same way. Ex text or call them. This might be seen as badgering or annoying. 
 - Try a different way of contacting the person. Go from text to email, or phone call to in-person. 
 
