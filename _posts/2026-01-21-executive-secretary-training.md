@@ -38,7 +38,7 @@ Below are some training topics for executive secretaries.
 - Start with a greeting, `Hi`, `Hello`, `Good morning/evening`; don't just straight into the ask. 
 - When speaking in person, say something genuine to break the ice. Don't go right into asking for something. 
     - `"How is your family?"`
-    - `"I saw your Jake (their son) hit a good basket at the bastketball game on Saturday..."` 
+    - `"I saw Jake (their son) hit a good basket at the bastketball game on Saturday..."` 
 
 ### What To Say To Be Welcoming
 - Say hello at church (without asking for anything)
