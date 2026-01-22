@@ -20,11 +20,15 @@ The executive secretary coordinates the work in the bishopric or branch presiden
 ## Paducah KY Training
 Below are some training topics for executive secretaries. 
 
+### General Tips
+- Be considerate of the person you're engaging with. Try to put yourself in their shoes with each message or response you send. What would make them say the things they say? What might have happened during their day?
+- Proofread. If you received the message you're about to send, how would you feel and would the ask be clear? 
+
 ### How To Stay Organized
 - Write things down, whether by pencil or digitally. 
     > "The dullest pencil is better than the sharpest memory."
 - Use a shared calendar (digital if you can). Put the appointments on a calendar and set notifications so 
-    - Digital (online) calendars are free ([Google](https://calendar.google.com), Outlook, etc)
+    - Digital (online) calendars are free ([Google Calendar](https://calendar.google.com), [Outlook Calendar](https://outlook.live.com/calendar), etc)
 - If you have a lot of projects, initiatives, appointments, etc, use an organizational tool like [Trello](https://trello.com) or [Microsoft Planner](https://planner.cloud.microsoft.com).
 
 ### How To Initiate Contact
