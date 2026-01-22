@@ -26,7 +26,7 @@ Below are some training topics for executive secretaries.
 - Always say thank you. 
 
 ### How To Stay Organized
-- Write things down, whether by pencil or digitally. 
+- Write things down, whether on paper or digitally. 
     > "The dullest pencil is better than the sharpest memory."
 - Use a shared calendar (digital if you can). Put the appointments on a calendar and set notifications. 
     - Digital (online) calendars are free ([Google Calendar](https://calendar.google.com), [Outlook Calendar](https://outlook.live.com/calendar), etc)
