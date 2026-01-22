@@ -21,7 +21,8 @@ The executive secretary coordinates the work in the bishopric or branch presiden
 Below are some training topics for executive secretaries. 
 
 ### How To Stay Organized
-- Write things down, whether by pencil or digitally. `"The dullest pencil is better than the sharpest memory."`
+- Write things down, whether by pencil or digitally. 
+    > "The dullest pencil is better than the sharpest memory."
 - Use a shared calendar (digital if you can). Put the appointments on a calendar and set notifications so 
     - Digital (online) calendars are free ([Google](https://calendar.google.com), Outlook, etc)
 - If you have a lot of projects, initiatives, appointments, etc, use an organizational tool like [Trello](https://trello.com) or [Microsoft Planner](https://planner.microsoft.com). 
