@@ -25,7 +25,7 @@ Below are some training topics for executive secretaries.
     > "The dullest pencil is better than the sharpest memory."
 - Use a shared calendar (digital if you can). Put the appointments on a calendar and set notifications so 
     - Digital (online) calendars are free ([Google](https://calendar.google.com), Outlook, etc)
-- If you have a lot of projects, initiatives, appointments, etc, use an organizational tool like [Trello](https://trello.com) or [Microsoft Planner](https://planner.microsoft.com). 
+- If you have a lot of projects, initiatives, appointments, etc, use an organizational tool like [Trello](https://trello.com) or [Microsoft Planner](https://planner.cloud.microsoft.com).
 
 ### How To Initiate Contact
 - Try to say hello in person before going to digital text messages, or email. This may not always be possible. 
