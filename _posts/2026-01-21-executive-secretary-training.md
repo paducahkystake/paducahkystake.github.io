@@ -23,25 +23,28 @@ Below are some training topics for executive secretaries.
 ### How To Stay Organized
 - Write things down, whether by pencil or by phone. `"The dullest pencil is better than the sharpest memory."`
 - Use a shared calendar (digital if you can). Put the appointments on a calendar and set notifications so 
-    - Digital (online) calendars are free (Google, Outlook, etc)
-- If you have a lot of projects, initiatives, appointments, etc, use an organizational tool like Trello or Microsoft Planner. 
+    - Digital (online) calendars are free ([Google](https://calendar.google.com), Outlook, etc)
+- If you have a lot of projects, initiatives, appointments, etc, use an organizational tool like [Trello](https://trello.com) or [Microsoft Planner](https://planner.microsoft.com). 
 
 ### How To Initiate Contact
-- Try to say hello in person before going to digital text messages, or email. Then you can go digital after meeting in person. 
-- Start with `Hi` or `Hello`. 
-- Say something genuine to break the ice. Don't go right into asking for what you need. 
+- Try to say hello in person before going to digital text messages, or email. This may not always be possible. 
+- If you don't know the person and your text/email is the first communication, introduce yourself. Example: `"Hi, Sister X, I'm ___, the ward executive secretary. Bishop asked ..."`
+- Start with `Hi` or `Hello`; don't just straight into the ask. 
+- When speaking in person, say something genuine to break the ice. Don't go right into asking for something. 
     - `"How is your family?"`
-    - `"I saw your son, Z, hit a good basket the bastketball game on Saturday..."` 
-- A few examples: 
-    - `"Hi, Sister X, hope you're well."`
-    - `"Hi, Brother Y, it was good to see you at church... "` 
+    - `"I saw your son, Z, hit a good basket at the bastketball game on Saturday..."` 
+- A few examples of messages: 
+    - `"Hi, Sister X, hope you're well. Bishop is asking to meet with you. Can you meet at 12p today?"`
+    - `"Hi, Brother Y, it was good to see you at church. Bishop asked me to check in with you (and all the members of our ward). Our records show your recommend may be expiring soon? Can I help you schedule a renewal?"` 
+    - (with introduction) `"Hi Sister Z, I'm ___, the ward executive secretary. I really enjoyed your talk on Sunday. Bishop is trying to meet with members for tithing declaration meetings and he asked me to reach out. Are you available on ___?"`
 
 ### What To Say To Be Welcoming
 - Say hello at church (without asking for anything)
 - Give before you ask. Ex: `"I remember your coconut pie at the pot lock was sooo good!"`
+- Always say thank you
 
-### What To Do (and not do) When a Member Stops Responding
-- Don't keep trying the same way. Ex text or call them. This might be seen as badgering or annoying. 
+### What To Do (and not do) When a Member Stops Responding To Your Messages
+- Don't keep trying the same way. Ex repeated text or repeated calls. This might be seen as badgering or annoying and could push people away. 
 - Try a different way of contacting the person. Go from text to email, or phone call to in-person. 
 
 
