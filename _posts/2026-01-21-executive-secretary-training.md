@@ -36,6 +36,7 @@ Contact endowed members for temple recommend renewals in this order.
 - Proofread. Re-read your message before sending it.
 - Clarity. If you were the member receiving this message from the executive secretary, how would you feel and would the ask be clear? 
 - Always say thank you. 
+- Be genuinely interested in the people you serve. 
 
 ### Focus Duties
 A few years ago, the Bishops/Branch presidents were asked which executive secretary duties (from the handbook) they needed the most. Here are the top 3 items. We invite you to ponder how this affects the way you serve and what areas you spend time on. We invite you to also discuss these items with your Bishop/Branch President to confirm in which areas he needs the most support.
