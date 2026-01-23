@@ -18,10 +18,10 @@ The executive secretary coordinates the work in the bishopric or branch presiden
 - Integrity. Do what you commit to doing. Keep your word. This grows trust. 
 
 ## Paducah KY Training
-Below are some training topics for executive secretaries. 
+In addition to the general church training above, here are some training topics specific to our stake. 
 
 ### ** Important Initiatives **
-For 2026, one of the Paducah KY stake's focus areas is helping wards/branches increase the number of endowed members with active temple recommends. 
+For 2026, one of our stake's focus areas is helping wards/branches increase the number of endowed members with active temple recommends. 
 
 To do this, the stake executive secretary/clerk will review a list of recommend interview candidates with the ward/branch executive secretary. Where there isn't an executive secretary, the stake president will work directly with the Bishop/Branch President. 
 
