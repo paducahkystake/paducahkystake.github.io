@@ -1,5 +1,5 @@
 ---
-title: Executive Secretary Training (draft)
+title: Executive Secretary Training
 date: 2026-01-21
 author: Executive Secretary
 permalink: executive-secretary-training
@@ -26,14 +26,14 @@ For 2026, one of the Paducah KY stake's focus areas is helping wards/branches in
 To do this, the stake executive secretary/clerk will review a list of recommend interview candidates with the ward/branch executive secretary. Where there isn't an executive secretary, the stake president will work directly with the Bishop/Branch President. 
 
 Contact endowed members for temple recommend renewals in this order. 
-1. Recommends expiring within 1 month Then
-2. Recommends recently expired (1-3 months) Then
-3. Recommends expiring in 1+ months Then
+1. Recommends expiring within 1 month
+2. Recommends recently expired (1-3 months)
+3. Recommends expiring in 1+ months
 4. Recommends expired for a while
 
 ### General Tips
 - Be considerate of the person you're engaging with. Try to put yourself in their shoes with each message or response you send. What would make them say the things they say? What might have happened during their day?
-- Proofread. re-read your message before sending it.
+- Proofread. Re-read your message before sending it.
 - Clarity. If you were the member receiving this message from the executive secretary, how would you feel and would the ask be clear? 
 - Always say thank you. 
 
@@ -57,16 +57,14 @@ And here are the rest of the duties (in order of importance to the Bishops/Branc
 ### How To Stay Organized
 - Write things down, whether on paper or digitally. 
     > "The dullest pencil is better than the sharpest memory." - Unknown
-- Use a shared calendar (digital if you can). Put the appointments on a calendar and set notifications. 
-    - Digital (online) calendars are free ([Google Calendar](https://calendar.google.com), [Outlook Calendar](https://outlook.live.com/calendar), etc)
+- Use a shared calendar (digital if you can). Put the appointments on a calendar and set notifications. Digital (online) calendars are free ([Google Calendar](https://calendar.google.com), [Outlook Calendar](https://outlook.live.com/calendar), etc)
 - If you have a lot of projects, initiatives, appointments, etc, use an organizational tool like [Trello](https://trello.com) or [Microsoft Planner](https://planner.cloud.microsoft.com).
-- Print the lists monthly to help organize and who will need to be contacted. 
-
+- Plan. Review reports (action and interview, youth birthday, etc) monthly and set appointments ahead of time. 
 
 ### How To Initiate Contact
 - Try to say hello in person before going to digital text messages, or email. This may not always be possible. 
 - If you don't know the person and your text/email is the first communication, introduce yourself. Example: `"Hi, Sister X, I'm ___, the ward executive secretary. Bishop asked ..."`
-- Start with a greeting, `Hi`, `Hello`, `Good morning/evening`; don't just straight into the ask. 
+- Start with a greeting, `Hi`, `Hello`, `Good morning/evening`; don't just go straight into the ask. 
 - When speaking in person, say something genuine to break the ice. Don't go right into asking for something. 
     - `"How is your family?"`
     - `"I saw Jake (their son) hit a good basket at the bastketball game on Saturday..."` 
@@ -74,6 +72,7 @@ And here are the rest of the duties (in order of importance to the Bishops/Branc
 ### What To Say To Be Welcoming
 - Say hello at church (without asking for anything)
 - Give before you ask. Ex: `"I remember your coconut pie at the pot lock was sooo good!"`
+- For new or returning members, tell them you are happy they are there. `"I hope you feel welcome here. We are happy you are here."`
 
 ### What To Do (and not do) When a Member Stops Responding To Your Messages
 - Don't keep trying the same way. Ex repeated text or repeated calls. This might be seen as badgering or annoying and could push people away. 
@@ -88,7 +87,7 @@ A few examples of invitation messages:
 > "Hi, Brother Y, it was good to see you at church. Bishop asked me to check in with you (and all the members of our ward). Our records show your recommend may be expiring soon? Can I help you schedule a renewal?"
 
 (with introduction:) 
-> "Hi Sister Z, I'm ___, the ward executive secretary. I really enjoyed your talk on Sunday. Bishop is trying to meet with members for tithing declaration meetings and he asked me to reach out. Are you available on ___?"
+> "Hi Sister Z, I'm ___, the ward executive secretary. I really enjoyed your talk on Sunday. Bishop is trying to meet with members for tithing declaration and he asked me to reach out. Are you available on Sunday at 12:15p?"
 
 ## Conclusion
 By following these tips, you will be a more effective executive secretary to reach people and help them progress toward their next ordinance. 
