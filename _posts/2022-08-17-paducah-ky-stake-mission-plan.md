@@ -22,7 +22,7 @@ Notify Ward/Branch council of people to meet the Bishop, needed callings/ministe
 
 ### Help Units have effective huddle meetings
 - Huddle meetings are short meetings held to coordinate who will minister to those not present at church
-- See [Weekly Coordination Meetings](https://northamericase.churchofjesuschrist.org/the-huddle?lang=eng-nase) for more details
+- See [Weekly Coordination Meetings](https://www.churchofjesuschrist.org/my-home/areas/usa-southeast/weekly-coordination-meetings?lang=eng) for more details
 
 ### Make sacrament meeting a welcoming place
 
