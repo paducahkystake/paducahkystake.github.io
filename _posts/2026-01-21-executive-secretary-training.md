@@ -33,11 +33,11 @@ Contact endowed members for temple recommend renewals in this order.
 
 *How To Run The Temple Recommend Report*
 Get the report by following the steps below: 
-1. Login to the church website: https://www.churchofjesuschrist.org
+1. Login to the church website: [https://www.churchofjesuschrist.org](https://www.churchofjesuschrist.org)
 2. Click on "Resources", then "Leader and Clerk Resources". The LCR website will load. 
-3. Click on the "Temple" menu, then "Temple Recommend Status". 
+3. Click on the "Temple" menu, then "Temple Recommend Status". See screenshot below. 
 4. Filter to the needed report: "Expiring within 1 month", "Expiring in 3 months", etc. 
-![alt text](../assets/temple-recommend-status-menu.png)
+![](../assets/temple-recommend-status-menu.png)
 
 ### General Tips
 - Be considerate of the person you're engaging with. Try to put yourself in their shoes with each message or response you send. What would make them say the things they say? What might have happened during their day?
