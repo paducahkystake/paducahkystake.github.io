@@ -30,6 +30,6 @@ Notify Ward/Branch council of people to meet the Bishop, needed callings/ministe
 - Ward/Branch members make friends and visitors feel loved and welcomed
 
 ### Invite members to participate in half the appointments with missionaries (50% participation rate)
-- Members to share their testimonies of Christ with friends
+- Missionaries to invite members to share their testimonies of Christ with friends
 
 
