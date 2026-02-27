@@ -12,7 +12,7 @@ In the Paducah Kentucky stake, we will:
 
 ### Empower the member/missionary coordination meeting:
 - Have the right people at the coordination meeting:
-EQ/RS counselor assigned to missionary work, Youth (YM/YW) assigned to missionary work, Ward/Branch Mission Leader (if called), Full time missionaries, Ward/branch Missionaries
+EQ/RS/Pri counselor assigned to missionary work, Youth (YM/YW) assigned to missionary work, Ward/Branch Mission Leader (if called), Full time missionaries, Ward/branch Missionaries
 - Use an agenda
 - Use effective communication:
 Notify Ward/Branch council of people to meet the Bishop, needed callings/ministering assignments, needed priesthood
