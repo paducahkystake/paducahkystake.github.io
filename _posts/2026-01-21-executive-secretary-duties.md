@@ -2,7 +2,9 @@
 title: Executive Secretary Training
 date: 2026-01-21
 author: Executive Secretary
-permalink: executive-secretary-training
+permalink: executive-secretary-duties
+redirect_from:
+  - executive-secretary-training
 tags: 
     - training
     - executive-secretary
@@ -10,15 +12,15 @@ tags:
 
 > "The bishopric directs the work of the Church within the ward. As the executive secretary, you provide administrative support to members of the bishopric as they lead the ward and work with ward organizations." - [What Should I Focus On, Provide Administrative Support to the Bishopric](https://www.churchofjesuschrist.org/study/manual/my-calling-as-an-executive-secretary/what-should-i-focus-on?lang=eng)
 
-The executive secretary coordinates the work in the bishopric or branch presidency. They are vital to help keep ward/branch work organized and progressing. This article shares training resources for executive secretaries in the Paducah KY Stake. 
+The executive secretary coordinates the work in the bishopric or branch presidency. They are vital to help keep ward/branch work organized and progressing. This article includes executive secretary duties from the handbook as well as stake-specific guidance from the Paducah KY Stake. 
 
 ## Leadership Training
 - Handbook chapters 1 - 4, especially [chapter 4: Leadership](https://www.churchofjesuschrist.org/study/manual/general-handbook/4-leadership-in-the-church-of-jesus-christ?lang=eng#title_number2)
 - [Handbook section 7.3: Executive Secretary](https://www.churchofjesuschrist.org/study/manual/general-handbook/7?lang=eng#:~:text=see%2023.6.1.-,7.3,Ward,-Executive%20Secretary%20and)
 - Integrity. Do what you commit to doing. Keep your word. This grows trust. 
 
-## Paducah KY Training
-In addition to the general church training above, here are some training topics specific to our stake. 
+## Paducah KY Duties
+In addition to the general church instruction above, here are some duties specific to our stake. 
 
 ### ** Important Initiatives **
 For 2026, one of our stake's focus areas is helping wards/branches increase the number of endowed members with active temple recommends. 

@@ -6,3 +6,5 @@ title: Paducah KY Stake Leadership Blog
 author: Paducah KY Stake
 description: The leadership blog for the Paducah KY Stake of The Church of Jesus Christ of Latter-day Saints. 
   This is not an official site of The Church of Jesus Christ of Latter-day Saints. 
+plugins:
+  - jekyll-redirect-from
