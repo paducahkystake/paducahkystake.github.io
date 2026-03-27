@@ -1,5 +1,5 @@
 ---
-title: Executive Secretary Training
+title: Executive Secretary Duties
 date: 2026-01-21
 author: Executive Secretary
 permalink: executive-secretary-duties
