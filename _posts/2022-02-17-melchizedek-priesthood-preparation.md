@@ -14,7 +14,7 @@ The Elders Quorum president oversees the preparation phase. He either works dire
 
 1. Follow the instructions in the [church handbook section 8.4](https://www.churchofjesuschrist.org/study/manual/general-handbook/8-elders-quorum?lang=eng#title_number118).
 
-2. Ensure the person gains experience exercising the Aaronic priesthood.
+2. Ensure the person gains experience exercising the Aaronic priesthood. Ex: Administering the sacrament, ministering, baptizing (in their unit and the temple), attending the temple (baptisms, confirmations), ordaining other Aaronic priesthood brethren (of equal or earlier office), doing their best in a calling/assignment, doing family history research, among other things. 
 
 3. Worthiness: Review the “[Melchizedek Priesthood Ordination Record](https://lcr.churchofjesuschrist.org/records/ordinances/priesthood?lang=eng)” interview questions with the brother so he is aware of the requirements and can prepare spiritually as needed. Print a blank form from LCR.
 
@@ -27,11 +27,11 @@ The Bishop/Branch president oversees the interview phase.
 
 3. With the Stake President’s approval, the Bishop/BP interviews the brother and submits the [Melchizedek priesthood ordination form](https://lcr.churchofjesuschrist.org/records/ordinances/priesthood?lang=eng) (recommendation) in LCR, which sends a notification to the Stake President and Executive Secretary.
 
-4. The Executive Secretary sends the request for a High Council vote
+4. The Executive Secretary schedules an interview with the person and a member of the stake presidency
 
-5. The Executive Secretary schedules an interview with the person and a member of the stake presidency
+5. A member of the stake presidency interviews the brother
 
-6. A member of the stake presidency interviews the brother
+6. The Executive Secretary sends the request for a High Council vote
 
 ## Ordination
 The Stake Presidency oversees the ordination, typically delegated to a High Councilor.
