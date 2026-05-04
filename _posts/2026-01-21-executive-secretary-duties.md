@@ -16,7 +16,7 @@ The executive secretary coordinates the work in the bishopric or branch presiden
 
 ## Leadership Training
 - Handbook chapters 1 - 4, especially [chapter 4: Leadership](https://www.churchofjesuschrist.org/study/manual/general-handbook/4-leadership-in-the-church-of-jesus-christ?lang=eng#title_number2)
-- [Handbook section 7.3: Executive Secretary](https://www.churchofjesuschrist.org/study/manual/general-handbook/7?lang=eng#:~:text=see%2023.6.1.-,7.3,Ward,-Executive%20Secretary%20and)
+- [Handbook section 7.3: Executive Secretary](https://www.churchofjesuschrist.org/study/manual/general-handbook/7?lang=eng#title_number14)
 - Integrity. Do what you commit to doing. Keep your word. This grows trust. 
 
 ## Paducah KY Duties
