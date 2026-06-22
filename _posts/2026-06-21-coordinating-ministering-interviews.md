@@ -29,7 +29,7 @@ Below are some recommendations for scheduling interviews.
 ## Presidency Availability and Duration
 Check with your presidency when they prefer to do the interviews. After church or Weds evenings work best for most people. 
 
-The handbook teaches, "Ministering interviews do not need to be long to be effective." Counsel with your presidency how long they prefer the interview. Typical times range from 5-15 minutes, and each companionship may require more or less time. More important than the duration is that the presidency member have sufficient time for ministering brothers and sisters to feel loved, appreciated, supported, and encouraged. See the [Purposes of Ministering Interviews](https://www.churchofjesuschrist.org/study/manual/general-handbook/21-ministering?lang=eng#title_number4:~:text=Their%20purposes%20are,in%20their%20service.) for additional information. 
+The handbook teaches, "Ministering interviews do not need to be long to be effective." Counsel with your presidency how long they prefer the interview. Typical times range from 5-10 minutes, and each companionship may require more or less time. More important than the duration is that the presidency member have sufficient time for ministering brothers and sisters to feel loved, appreciated, supported, and encouraged. See the [Purposes of Ministering Interviews](https://www.churchofjesuschrist.org/study/manual/general-handbook/21-ministering?lang=eng#title_number4:~:text=Their%20purposes%20are,in%20their%20service.) for additional information. 
 
 ## Which Companionships To Schedule
 
