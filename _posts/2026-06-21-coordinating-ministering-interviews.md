@@ -10,7 +10,7 @@ tags:
 
 > The elders quorum president and his counselors interview ministering brothers. The Relief Society president and her counselors interview ministering sisters. [HB 21.3](https://www.churchofjesuschrist.org/study/manual/general-handbook/21-ministering?lang=eng#title_number4)
 
-According to the church handbook ([Chp 21](https://www.churchofjesuschrist.org/study/manual/general-handbook/21-ministering?lang=eng)), "Ministering means serving others as the Savior did. He loved, taught, prayed for, comforted, and blessed those around Him. As disciples of Jesus Christ, we seek to minister to God’s children."
+Our leaders teach "Ministering means serving others as the Savior did. He loved, taught, prayed for, comforted, and blessed those around Him. As disciples of Jesus Christ, we seek to minister to God’s children." - Handbook [Chp 21](https://www.churchofjesuschrist.org/study/manual/general-handbook/21-ministering?lang=eng). As such, it's vital for Elders Quorum and Relief Society Presidencies ensure families are cared for. They do this through ministering interviews with the assigned ministering brother or sister. 
 
 Coordinating ministering interviews is an important part of organizing the work to best care for our brothers and sisters. Some units may call a ministering coordinator, who as part of their duties schedules interviews and marks them complete following the interview. Where a ministering coordinator is not available, Elders Quorum or Relief Society secretaries may be asked to perform these duties.
 
@@ -19,14 +19,10 @@ This article discusses ways to schedule and track interview completion.
 # Types of Ministering Interviews
 Ministering interviews can be done in a variety of ways. Use the method that works best for the companionship although in-person interviews are recommended. 
 
-Some options are in-person, phone call, or text. 
-
-These options can be rotated depending on the companionship's available. 
-
-Discuss with your EQ or RS president any background information to get to know the ministering brothers and sisters' interview preference. 
+Some options are in-person, phone call, or text. These options can be rotated depending on the companionship's availability. Discuss with your EQ or RS president any background information to get to know the ministering brothers and sisters. 
 
 # Scheduling
-Each ministering companionship is to be interviewed once per quarter. Interviews are scheduled with the president and counselors. 
+Each ministering companionship is to be interviewed once per quarter. The president and counselors each have interviews with the companionships in their assigned district. So, schedule interviews for the president and his/her assigned district, and schedule separate interviews for each counselor and his/her assigned district. 
 
 Below are some recommendations for scheduling interviews. 
 
@@ -37,15 +33,15 @@ The handbook teaches, "Ministering interviews do not need to be long to be effec
 
 ## Which Companionships To Schedule
 
-1. Choose companionships from the [Current EQ Ministering Assignments](https://lcr.churchofjesuschrist.org/ministering?lang=eng&type=EQ) or [Current RS Ministering Assignments](https://lcr.churchofjesuschrist.org/ministering?lang=eng&type=RS) report in LCR. 
+1. Choose companionships from the [Current EQ Ministering Assignments](https://lcr.churchofjesuschrist.org/ministering?lang=eng&type=EQ) or [Current RS Ministering Assignments](https://lcr.churchofjesuschrist.org/ministering?lang=eng&type=RS) report in LCR. The screenshot below shows how to navigate the menu to get to that report. 
 ![](../assets/ministering-current-assignments-menu.png)
 
-2. Filter by the "Not Interviewed This Quarter" option. This will only show the companionships that need interviews this quarter. 
+2. Filter by the "Not Interviewed This Quarter" option. This will only show the companionships that need interviews this quarter. The screenshot below shows how to apply that filter. 
 ![](../assets/ministering-not-interviewed-this-quarter.png)
 
 
 ## Scheduling with the Companionship
-Both members of the ministering companionship should be included in the interview. 
+Both members of the ministering companionship should be included in the interview. - [HB 21.3](https://www.churchofjesuschrist.org/study/manual/general-handbook/21-ministering?lang=eng#title_number4:~:text=with%20both%20members%20of%20the%20companionship.)
 
 Ask the people in person. When that's not possible or practical, send text messages or call them. 
 
@@ -72,9 +68,9 @@ A few tips for those using digital calendars.
 # Tracking The Completed Interviews
 Here are some tips to marking the interviews. 
 
-1. Check with the presidency member if they met with the companionship
-2. If no, repeat the process to schedule the companionship
-3. If yes, mark the interview complete. See screenshot below. 
+1. Check with the presidency member if he/she met with the companionship
+2. If no, repeat the process to schedule the companionship.
+3. If yes, mark the interview complete. See screenshot below with steps to mark the interview complete. 
 ![](../assets/ministering-marking-interview-complete.png)
 
 # Conclusion
