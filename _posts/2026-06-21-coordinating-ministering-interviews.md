@@ -33,10 +33,10 @@ The handbook teaches, "Ministering interviews do not need to be long to be effec
 
 ## Which Companionships To Schedule
 
-1. Choose companionships from the [Current EQ Ministering Assignments](https://lcr.churchofjesuschrist.org/ministering?lang=eng&type=EQ) or [Current RS Ministering Assignments](https://lcr.churchofjesuschrist.org/ministering?lang=eng&type=RS) report in LCR. The screenshot below shows how to navigate the menu to get to that report. 
+1. Choose companionships from the [Current EQ Ministering Assignments](https://lcr.churchofjesuschrist.org/ministering?lang=eng&type=EQ) or [Current RS Ministering Assignments](https://lcr.churchofjesuschrist.org/ministering?lang=eng&type=RS) report in LCR, or in the "Ministering Brothers" and "Ministering Sisters" screen in the Tools mobile app. The screenshot below shows how to navigate the menu to get to the LCR report. 
 ![](../assets/ministering-current-assignments-menu.png)
 
-2. Filter by the "Not Interviewed This Quarter" option. This will only show the companionships that need interviews this quarter. The screenshot below shows how to apply that filter. 
+2. Filter by the "Not Interviewed This Quarter" option. This will only show the companionships that need interviews this quarter. The screenshot below shows how to apply that filter in the LCR report. 
 ![](../assets/ministering-not-interviewed-this-quarter.png)
 
 
