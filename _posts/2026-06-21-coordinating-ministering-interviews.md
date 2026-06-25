@@ -10,7 +10,7 @@ tags:
 
 > The elders quorum president and his counselors interview ministering brothers. The Relief Society president and her counselors interview ministering sisters. [HB 21.3](https://www.churchofjesuschrist.org/study/manual/general-handbook/21-ministering?lang=eng#title_number4)
 
-Our leaders teach "Ministering means serving others as the Savior did. He loved, taught, prayed for, comforted, and blessed those around Him. As disciples of Jesus Christ, we seek to minister to God’s children." - Handbook [Chp 21](https://www.churchofjesuschrist.org/study/manual/general-handbook/21-ministering?lang=eng). As such, it's vital for Elders Quorum and Relief Society Presidencies ensure families are cared for. They do this through ministering interviews with the assigned ministering brother or sister. 
+Our leaders teach "Ministering means serving others as the Savior did. He loved, taught, prayed for, comforted, and blessed those around Him. As disciples of Jesus Christ, we seek to minister to God’s children." - Handbook [Chp 21](https://www.churchofjesuschrist.org/study/manual/general-handbook/21-ministering?lang=eng). As such, it's vital for Elders Quorum and Relief Society Presidencies to ensure families are cared for. They do this through ministering interviews with the assigned ministering brother or sister. 
 
 Coordinating ministering interviews is an important part of organizing the work to best care for our brothers and sisters. Some units may call a Ministering Secretary, who as part of their duties schedules interviews and marks them complete following the interview. Where a Ministering Secretary is not called, Elders Quorum or Relief Society secretaries perform these duties.
 
