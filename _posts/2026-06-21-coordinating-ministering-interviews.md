@@ -57,12 +57,18 @@ Below are some tips for scheduling:
 * Include start time and duration on the calendar. This shows you how much time each will take and when to tell the next interview when to show up. :) 
 * Send a reminder to presidency member and the companionship members. Text message (or built-in digital calendar reminder tools) are useful for reminders. 
 
+
 ### Digital Calendars
 A few tips for those using digital calendars. 
 
 1. Digital calendars are free ([Google Calendar](https://calendar.google.com/), [Outlook Calendar](https://outlook.live.com/calendar), etc). The stake uses Google and it's worked well. 
+2. Keep each presidency member's appointments separate. 
+
+    * Option 1: Use 1 calendar and invite each presidency member by email. 
+    * Option 2: Make a separate calendar for each presidency member. 
 2. These fields are useful: title, date and time, location, reminder, and recipients. Below is a screenshot of a well-crafted calendar invite. 
-![](../assets/ministering-interview-calendar-invite.png)
+![](../assets/ministering-interview-calendar-invite-2.png)
+
 
 
 # Tracking The Completed Interviews
