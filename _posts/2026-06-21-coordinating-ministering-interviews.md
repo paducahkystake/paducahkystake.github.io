@@ -21,6 +21,8 @@ Ministering interviews can be done in a variety of ways. Use the method that wor
 
 Some options are in-person, phone call, or text. These options can be rotated depending on the companionship's availability. Discuss with your EQ or RS president any background information to get to know the ministering brothers and sisters. 
 
+---
+
 # Scheduling
 Each ministering companionship is to be interviewed once per quarter. The president and counselors each have interviews with the companionships in their assigned district. So, schedule interviews for the president and his/her assigned district, and schedule separate interviews for each counselor and his/her assigned district. 
 
@@ -40,7 +42,7 @@ The handbook teaches, "Ministering interviews do not need to be long to be effec
 ![](../assets/ministering-not-interviewed-this-quarter.png)
 
 
-## Scheduling with the Companionship
+## Who To Invite
 Both members of the ministering companionship should be included in the interview. - [HB 21.3](https://www.churchofjesuschrist.org/study/manual/general-handbook/21-ministering?lang=eng#title_number4:~:text=with%20both%20members%20of%20the%20companionship.)
 
 Ask the people in person. When that's not possible or practical, send text messages or call them. 
@@ -69,7 +71,7 @@ A few tips for those using digital calendars.
 2. These fields are useful: title, date and time, location, reminder, and recipients. Below is a screenshot of a well-crafted calendar invite. 
 ![](../assets/ministering-interview-calendar-invite-2.png)
 
-
+---
 
 # Tracking The Completed Interviews
 Here are some tips to marking the interviews. 
